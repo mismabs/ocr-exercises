@@ -2,6 +2,8 @@
 
 ## OCR on Text via Tesseract
 
+### This is an exercise from PyImageSearch on [Using Tesseract OCT Python](https://pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/) by Adrian Rosebrock
+
 ### Tesseract Installation
 
 You can use this [link](https://github.com/UB-Mannheim/tesseract/wiki)
